@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm David Ramirez Mazariego
 
-#✨ Here Is Some Stuff About Me
+# ✨ Here Is Some Stuff About Me
 
 - 🔭 Student at Raritan Valley COmmunity College
 - 🌱 One I want my professional job to an AI developer
@@ -10,14 +10,14 @@
 - 📫 I'm a direct support professional working for Our House Inc
 - 😄 Pronouns: he/him
  
-#⚡ Video-games I play
+# ⚡ Video-games I play
 
 - EAFC 25
 - Paladins
 - Clash of Clans
 - Pokemon
 
-#👋 Courses taken
+# 👋 Courses taken
 
 - Java programming
 - Phyton programming
