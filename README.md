@@ -23,10 +23,11 @@
 - Phyton programming
 - 2D Design
 - Philosophy
-- Cultural Anthropoly
+- Cultural Anthropology
 - Drawing
 - Computer Concepts
 - Calculus
+- English Composition
   
 - Physics (current)
 - Linear Algebra (current)
