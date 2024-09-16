@@ -3,7 +3,7 @@
 
 # ✨ Here Is Some Stuff About Me
 
-- 🔭 Student at Raritan Valley COmmunity College
+- 🔭 Student at Raritan Valley Community College
 - 🌱 One I want my professional job to an AI developer
 - 🤔 Apart from techonology, I also like arts & geography
 - 💬 Want to reach me? davidmazariego26@gmail.com
